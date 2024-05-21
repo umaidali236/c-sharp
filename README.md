@@ -1,2 +1,2 @@
 # c-sharp
- Learning C# 
+ Learning C# from tutorials.
