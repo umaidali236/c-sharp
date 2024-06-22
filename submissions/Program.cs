@@ -1,6 +1,6 @@
 ﻿// Assignment-1
 
-Console.WriteLine("Hello there ! \n");
+Console.WriteLine(" Hello there ! \n");
 
 Console.WriteLine(" This course serves as an introduction to the C# programming language, one of the most widely used languages for developing desktop, web, and mobile applications on the .NET framework.We will learn the fundamentals of C# syntax, data types, control structures, object-oriented programming concepts and common programming techniques.\n");
 
